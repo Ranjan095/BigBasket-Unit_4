@@ -3,7 +3,7 @@ import {React} from "react";
 import { Routes,Route } from "react-router-dom";
 import Dashboard from "../Components/Pages/Dashboard";
 import Login from "../Components/Pages/Login";
-import Fruits_Vegitable from "../Components/Fruits_vegitable";
+import Fruits_Vegitable from "../Components/Pages/Fruits_vegitable";
 import Tea from "../Components/Pages/Tea";
 import Ghee from "../Components/Pages/Ghee";
 import Nandni from "../Components/Pages/Nandni";

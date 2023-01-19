@@ -6,7 +6,7 @@ import { Link } from "react-router-dom";
 export default function Navbar(){
 
     return(
-        <div >
+        <div style={{position:'fixed',top:'0px',width:'100%',background:'white',height:'100px'}}>
 
              <input style={{margin:'10px',padding:'5px'}} placeholder="Search for Products..."></input>
 
