@@ -1,4 +1,6 @@
 export default function Login(){
 
-    return <h1>Login..test</h1>
+    return <div style={{marginTop:"100px"}}>
+  <h1>Login..test</h1>
+   </div>
 }

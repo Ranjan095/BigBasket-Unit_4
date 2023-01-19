@@ -1,4 +1,6 @@
 export default function Nandni(){
 
-    return <h1>Nandni....testing</h1>
+    return <div style={{marginTop:"100px"}}>
+    <h1>Nandni</h1>
+     </div>
 }

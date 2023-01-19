@@ -71,6 +71,89 @@
     "price":869,
     "description":"Pampers Diaper Pants - Extra Large, 56 pcs",
     "category":"Baby care"
+    },
+    {"id":9,
+    "image":"https://www.bigbasket.com/media/uploads/p/l/10000263_12-fresho-strawberry.jpg?tr=w-640,q=80",
+     "name": "Strawberry, 200gm",
+    "title":"",
+    "weight":"200gm",
+    "price":57.14,
+    "description":"Extremely juicy and syrupy, these conical heart shaped fruits have seeds on the skin that give them a unique texture. With a blend of sweet-tart flavour, these are everyone's favourite berries.Do not forget to check our delicious fruit recipe",
+    "category":"Fresho"
+    },
+    {"id":10,
+    "image":"https://www.bigbasket.com/media/uploads/p/m/10000063_20-fresho-broccoli.jpg?tr=w-1920,q=80",
+     "name": " Broccoli",
+    "title":"Fresho Broccoli, 1 pc (Approx. 250g-500g)",
+    "weight":"1pc",
+    "price":37.12,
+    "description":"With a shape resembling that of a cauliflower, Brocollis have clusters of small, tight flower heads. These heads turn bright green on cooking and tastes slightly bitter.",
+    "category":"Fresho "
+    },
+    {"id":11,
+    "image":"https://www.bigbasket.com/media/uploads/p/l/10000273_16-fresho-mushrooms-button.jpg?tr=w-640,q=80",
+     "name": "Mushrooms",
+    "title":"Fresho Mushrooms - Button, 1 pack(Approx .180g - 200 g)",
+    "weight":"180g",
+    "price":40.54,
+    "description":"Buttom mushrooms are very small sized mushrooms with smooth round caps and short stems. They have a mild flavour with a good texture that becomes more fragrant and meaty when cooked.",
+    "category":"Fresho "
+    },
+    {"id":12,
+    "image":"https://www.bigbasket.com/media/uploads/p/l/30009286_7-fresho-blueberry.jpg?tr=w-640,q=80",
+     "name": "Blueberry",
+    "title":"Fresho Blueberry, 125 g",
+    "weight":"125gm",
+    "price":267,
+    "description":"Plump, smooth-skinned and indigo coloured perfect little globes of juicy berries have mostly sweet and slightly tart flavour. We have imported this fine quality, delicious tasting variety of",
+    "category":"Fresho"
+    },
+    {"id":13,
+    "image":"https://www.bigbasket.com/media/uploads/p/l/20000911_30-fresho-kiwi-green.jpg?tr=w-640,q=80",
+     "name": "Kiwi ",
+    "title":"Fresho Kiwi - Green, 3 pcs",
+    "weight":"3pc",
+    "price":59,
+    "description":"Kiwis are oval shaped with a brownish outer skin. The flesh is bright green and juicy with tiny, edible black seeds. With its distinct sweet-sour taste and a pleasant smell, it tastes like strawberry",
+    "category":"Fresho "
+    },
+    {"id":14,
+    "image":"https://www.bigbasket.com/media/uploads/p/l/10000668_12-fresho-cucumber-english.jpg?tr=w-640,q=80",
+     "name": "Cucumber ",
+    "title":"Fresho Cucumber - English (Loose), 1 kg",
+    "weight":"1kg",
+    "price":82,
+    "description":"English cucumber is a variety of seedless cucumber that is longer and slimmer than other varieties and have a higher water content. They do not have a layer of wax on them, and the skin is",
+    "category":"Fresho "
+    },
+    {"id":15,
+    "image":"https://www.bigbasket.com/media/uploads/p/l/30002322_11-fresho-guava-thai.jpg?tr=w-640,q=80",
+     "name": "Guava ",
+    "title":"Fresho Guava - Thai (Loose), 1 pc",
+    "weight":"1pc",
+    "price":38.46,
+    "description":"Large sized, apple green skinned Thai guavas have a white flesh with pale yellow seeds and tend to be drier than the pink guavas. Thai guavas are only mildly sweet and have very little",
+    "category":"Fresho "
+    },
+    {"id":16,
+    "image":"https://www.bigbasket.com/media/uploads/p/l/40058671_3-fresho-mixed-capsicum.jpg?tr=w-640,q=80",
+     "name": "Mixed Capsicum",
+    "title":"Fresho Mixed Capsicum (Loose), 2 pcs",
+    "weight":"2pc",
+    "price":104.04,
+    "description":"Capsicum is wealthy in several phytonutrients especially antioxidants, minerals and dietary fiber like manganese, copper, potassium and magnesium. It is wealthy in Vitamin A, B6, C, E, K and",
+    "category":"Fresho "
     }
+
+  ],
+  "user":[
+      {
+        "email":"abc@gmail.com",
+        "password":"123456"
+    
+      }
   ]
 }
+
+
+

@@ -1,4 +1,7 @@
 export default function Tea(){
 
-    return <h1>Tea...testing</h1>
+    return <div style={{marginTop:'100px'}}>
+        <h1>Tea.</h1>
+       
+    </div>
 }

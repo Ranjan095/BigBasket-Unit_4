@@ -4,6 +4,7 @@ import React from 'react';
 import Dashboard from './Components/Pages/Dashboard';
 import RoutesComp from './AllRouts/Routes&Route';
 import Navbar from './Components/Pages/Navbar';
+import Footer from './Footer';
 
 
 function App() {
@@ -13,6 +14,8 @@ function App() {
 <Navbar/>
 
    <RoutesComp/>
+
+<Footer/>
     </div>
   );
 }

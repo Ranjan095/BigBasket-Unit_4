@@ -1,4 +1,7 @@
 export default function Ghee(){
 
-    return <h1>Ghee thesting....</h1>
+    return <div style={{marginTop:"100px"}}>
+     <h1>Ghee </h1>
+    </div>
+   
 }
