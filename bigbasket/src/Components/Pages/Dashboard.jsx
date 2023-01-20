@@ -1,26 +1,39 @@
 import React, { useEffect, useState } from "react"
 import axios from 'axios';
 import SinglePro from "./SinglePro";
-import Cart from "./Cart";
-
+import { useContext } from "react";
+import { cartContext } from "../../CartContext/CartContext";
 
 export default function Dashboard(){
     let [pro,setPro]=useState([]);
+    let [cart,setCart]=useState([])
+    let [loding,setLoading]=useState(false) 
+    let [err,setErr]=useState(false);
+
     
-let [cart,setCart]=useState([])
 
     function addToCart(ele) {
         setCart([...cart, ele]);
+        
     }
 
     useEffect(()=>{
+        setLoading=true;
         axios.get("http://localhost:3000/products")
-        .then((ele)=>setPro(ele.data))
+        .then((ele)=>{
+            setPro(ele.data);
+            setLoading=false;
+        }).catch((err)=>console.log('dfsfadf'))
         
-    },[])
+    },[]);
+    
 
-console.log(cart)
-    return (
+// console.log(cart)
+
+if(loding){
+    return <h1>Loading....</h1>
+}else{
+  return  (
         <>
         <div style={{marginTop:'120px'}}>
         <h2>My Smart Basket</h2>
@@ -36,6 +49,8 @@ console.log(cart)
 
         </>
     )
+}
+   
 }
 
 
