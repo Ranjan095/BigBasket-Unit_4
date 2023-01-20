@@ -32,7 +32,7 @@
      "name": "Gentle Body Wash & Shampoo",
     "title":"Chicco Baby Moments",
     "weight":"500ml",
-    "price":"505",
+    "price":505,
     "description":"Chicco Baby Moments - Gentle Body Wash & Shampoo, Oats Extract & Apricot, For Rich Moisturised Skin & Soft Hair, 500 ml",
     "category":"Baby care"
     },
@@ -88,7 +88,7 @@
     "weight":"1pc",
     "price":37.12,
     "description":"With a shape resembling that of a cauliflower, Brocollis have clusters of small, tight flower heads. These heads turn bright green on cooking and tastes slightly bitter.",
-    "category":"Fresho "
+    "category":"Fresho"
     },
     {"id":11,
     "image":"https://www.bigbasket.com/media/uploads/p/l/10000273_16-fresho-mushrooms-button.jpg?tr=w-640,q=80",
@@ -97,7 +97,7 @@
     "weight":"180g",
     "price":40.54,
     "description":"Buttom mushrooms are very small sized mushrooms with smooth round caps and short stems. They have a mild flavour with a good texture that becomes more fragrant and meaty when cooked.",
-    "category":"Fresho "
+    "category":"Fresho"
     },
     {"id":12,
     "image":"https://www.bigbasket.com/media/uploads/p/l/30009286_7-fresho-blueberry.jpg?tr=w-640,q=80",
@@ -115,7 +115,7 @@
     "weight":"3pc",
     "price":59,
     "description":"Kiwis are oval shaped with a brownish outer skin. The flesh is bright green and juicy with tiny, edible black seeds. With its distinct sweet-sour taste and a pleasant smell, it tastes like strawberry",
-    "category":"Fresho "
+    "category":"Fresho"
     },
     {"id":14,
     "image":"https://www.bigbasket.com/media/uploads/p/l/10000668_12-fresho-cucumber-english.jpg?tr=w-640,q=80",
@@ -124,7 +124,7 @@
     "weight":"1kg",
     "price":82,
     "description":"English cucumber is a variety of seedless cucumber that is longer and slimmer than other varieties and have a higher water content. They do not have a layer of wax on them, and the skin is",
-    "category":"Fresho "
+    "category":"Fresho"
     },
     {"id":15,
     "image":"https://www.bigbasket.com/media/uploads/p/l/30002322_11-fresho-guava-thai.jpg?tr=w-640,q=80",
@@ -133,7 +133,7 @@
     "weight":"1pc",
     "price":38.46,
     "description":"Large sized, apple green skinned Thai guavas have a white flesh with pale yellow seeds and tend to be drier than the pink guavas. Thai guavas are only mildly sweet and have very little",
-    "category":"Fresho "
+    "category":"Fresho"
     },
     {"id":16,
     "image":"https://www.bigbasket.com/media/uploads/p/l/40058671_3-fresho-mixed-capsicum.jpg?tr=w-640,q=80",
@@ -142,7 +142,70 @@
     "weight":"2pc",
     "price":104.04,
     "description":"Capsicum is wealthy in several phytonutrients especially antioxidants, minerals and dietary fiber like manganese, copper, potassium and magnesium. It is wealthy in Vitamin A, B6, C, E, K and",
-    "category":"Fresho "
+    "category":"Fresho"
+    },
+    {"id":17,
+    "image":"https://www.bigbasket.com/media/uploads/p/l/40199390_2-tata-tea-premium-tea.jpg?tr=w-640,q=80",
+     "name": "Tea Premium Tea, 1. 5 Kg",
+    "title":"Tata Tea Premium Tea, 1. 5 Kg",
+    "weight":"1.5kg",
+    "price":490,
+    "description":"Chai is more than a cup of tea; rather it is an integral part of the culture and life of every Indian. While drinking chai is enjoyed",
+    "category":"tea"
+    },
+    {"id":18,
+    "image":"https://www.bigbasket.com/media/uploads/p/l/40200082_3-tata-tea-gold-tea.jpg?tr=w-640,q=80",
+     "name": "Tea Gold Tea, 1.5 Kg",
+    "title":"Tata Tea Gold Tea, 1.5 Kg",
+    "weight":"1.5kg",
+    "price":762.60,
+    "description":"In the place, where the valley meets the mountains, Tata Tea Gold is born. An exquisite tea that combines the rich fullness of fine",
+    "category":"tea"
+    },
+    {"id":19,
+    "image":"https://www.bigbasket.com/media/uploads/p/l/1212447_2-fresho-organic-cow-desi-gheetuppa.jpg?tr=w-640,q=80",
+     "name": "Organic Cow Desi Ghee",
+    "title":"Fresho Organic Cow Desi Ghee/Tuppa, 2x1 L (Multipack)",
+    "weight":"2L",
+    "price":1568,
+    "description":"Manufactured in a safe and hygeinic facility, Fresho Organic Cow Desi Ghee/Tuppa Fresho is an organic must-have in every",
+    "category":"ghee"
+    },
+    {"id":20,
+    "image":"https://www.bigbasket.com/media/uploads/p/l/100003586_4-gowardhan-ghee.jpg?tr=w-640,q=80",
+     "name": "Pure Cow Ghee, 500 ml ",
+    "title":"Gowardhan Pure Cow Ghee, 500 ml Bottle",
+    "weight":"500ml",
+    "price":356,
+    "description":"Gowardhan Premium Ghee is completely processed using modern machines and has the enormous taste of 100% pure cow's",
+    "category":"ghee"
+    },
+    {"id":21,
+    "image":"https://www.bigbasket.com/media/uploads/p/l/242668_3-nandini-cooking-butter-unsalted.jpg?tr=w-640,q=80",
+     "name": "Pasteurised Butter",
+    "title":"Nandini Pasteurised Butter - Unsalted, 500 g Carton",
+    "weight":"500gm",
+    "price":255,
+    "description":"You will be simply amazed at the soft smooth texture of Nandini unsalted butter which comes from pasteurized cream. This tasty",
+    "category":"nandini"
+    },
+    {"id":22,
+    "image":"https://www.bigbasket.com/media/uploads/p/l/40181590_5-nandini-processed-cheese-block.jpg?tr=w-640,q=80",
+     "name": "Processed Cheese",
+    "title":"Nandini Processed Cheese Block, 1 kg Carton",
+    "weight":"1kg",
+    "price":400,
+    "description":"Nandini Cheese is a food that many healthy eaters crave. Add cheese to salads, layer it on sandwiches or just enjoy cheese on its",
+    "category":"nandini"
+    },
+    {"id":23,
+    "image":"https://www.bigbasket.com/media/uploads/p/l/1220651_1-aashirvaad-svasti-cow-ghee-intense-aroma-flavour-rich-texture-immunity-booster.jpg?tr=w-640,q=80",
+     "name": "Svasti Cow Ghee",
+    "title":"Aashirvaad Svasti Cow Ghee - Intense Aroma & Flavour, Rich Texture",
+    "weight":"200ml",
+    "price":345,
+    "description":"Aashirvaad, the brand that you love and trust, ensures that good quality products reach your kitchen and Aashirvaad Svasti Pure Cow Ghee stays true that. Made with love in India, Aashirvaad",
+    "category":"ghee"
     }
 
   ],
@@ -154,6 +217,3 @@
       }
   ]
 }
-
-
-

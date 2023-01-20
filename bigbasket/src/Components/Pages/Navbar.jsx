@@ -6,7 +6,7 @@ import { Link } from "react-router-dom";
 export default function Navbar(){
 
     return(
-        <div style={{position:'fixed',top:'0px',width:'100%',background:'white',height:'100px'}}>
+        <div style={{position:'fixed',top:'0px',width:'100%',background:'orange',height:'100px'}}>
 
              <input style={{margin:'10px',padding:'5px'}} placeholder="Search for Products..."></input>
 
@@ -25,4 +25,3 @@ export default function Navbar(){
     )
 }
 
-{/* <img style={{width:'100px'}} src='' alt="Logo"/> */}
