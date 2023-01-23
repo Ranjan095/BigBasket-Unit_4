@@ -1,4 +1,5 @@
 import { useEffect,axios, useState } from "react"
+import Navbar from "./Navbar";
 
 export default function Ghee(){
 let [item,setItem]=useState([]);
@@ -16,7 +17,9 @@ let [item,setItem]=useState([]);
     })
     console.log(ghee)
 
-    return <div style={{marginTop:"100px"}}>
+    return <>
+    <Navbar/>
+    <div style={{marginTop:"100px"}}>
      <h1>Ghee </h1>
 
     <div style={{display:"grid", gridTemplateColumns:"repeat(3, 1fr)", gap:'5px',padding:'20px'}}>
@@ -38,5 +41,6 @@ let [item,setItem]=useState([]);
     </div>
 
     </div>
+    </>
    
 }

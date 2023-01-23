@@ -3,6 +3,7 @@ import axios from 'axios';
 import SinglePro from "./SinglePro";
 import { useContext } from "react";
 import { cartContext } from "../../CartContext/CartContext";
+import Navbar from "./Navbar";
 
 export default function Dashboard(){
     let [pro,setPro]=useState([]);
@@ -35,6 +36,7 @@ if(loding){
 }else{
   return  (
         <>
+         <Navbar/>
         <div style={{marginTop:'120px'}}>
         <h2>My Smart Basket</h2>
        

@@ -1,14 +1,8 @@
-import Navbar from "./Navbar"
-
-export default function Login(){
+export default function AdminLogin(){
 
     return <>
-    <Navbar/>
-    <div style={{margin:"200px"}}>
-     
     <form action="" style={{}}>
-        <div style={{border:'1px solid black',width:'400px',padding:'10px'}}>
-        <h1>Login..</h1>
+        <div style={{border:'1px solid black',width:'400px',margin:'100px',padding:'10px'}}>
         <label >email: </label>
         <input type="text" placeholder="email....." /><br></br><br></br>
         <label>password: </label>
@@ -16,6 +10,5 @@ export default function Login(){
         <input type="submit"></input>
         </div>
     </form>
-   </div>
     </>
 }

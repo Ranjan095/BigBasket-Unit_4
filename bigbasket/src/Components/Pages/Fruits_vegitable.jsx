@@ -1,4 +1,5 @@
 import {React,useState, useEffect} from "react"
+import Navbar from "./Navbar";
 
 export default function Fruits_Vegitable(){
     let [item,setItem]=useState([]);
@@ -23,7 +24,9 @@ export default function Fruits_Vegitable(){
    },[])
    
 // console.log(item)
-    return <div style={{marginTop:'100px'}}>
+    return <>
+    <Navbar/>
+    <div style={{marginTop:'100px'}}>
     <h1>Fruits & Vegitables</h1>
     <div style={{display:"grid", gridTemplateColumns:"repeat(3, 1fr)", gap:'5px',padding:'20px'}}>
    {newData.map((ele)=>
@@ -43,4 +46,5 @@ export default function Fruits_Vegitable(){
    )}
    </div>
 </div>
+    </>
 }
