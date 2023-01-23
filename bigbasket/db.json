@@ -1,219 +1,346 @@
 {
-  "products":[
-    {"id":1,
-    "image":"https://www.bigbasket.com/media/uploads/p/m/240155_11-nestle-nan-pro-follow-up-formula-stage-2-after-6-months.jpg?tr=w-1920,q=80",
-     "name": "Nestle Nan Pro",
-    "title":"2 Follow-up Formula Powder - After 6",
-    "weight":"400g",
-    "price":740,
-    "description":"Nestle Nan Pro 2 Follow-up Formula Powder - After 6 months, Up to 12 months, Stage 2,, 400g Bag-In-Box",
-    "category":"Baby care"
+  "products": [
+    {
+      "id": 2,
+      "image": "https://www.bigbasket.com/media/uploads/p/l/262921_18-johnsons-baby-no-more-tears-baby-shampoo.jpg?tr=w-640,q=80",
+      "name": "Baby oil & shampoo",
+      "title": "Johnson's baby No More Tears Baby Shampoo, 500 ml",
+      "weight": "500ml",
+      "price": 347,
+      "description": "Johnson's baby No More Tears Baby Shampoo, 500 ml",
+      "category": "Baby care"
     },
-    {"id":2,
-    "image":"https://www.bigbasket.com/media/uploads/p/l/262921_18-johnsons-baby-no-more-tears-baby-shampoo.jpg?tr=w-640,q=80",
-     "name": "Baby oil & shampoo",
-    "title":"Johnson's baby No More Tears Baby Shampoo, 500 ml",
-    "weight":"500ml",
-    "price":347,
-    "description":"Johnson's baby No More Tears Baby Shampoo, 500 ml",
-    "category":"Baby care"
+    {
+      "id": 3,
+      "image": "https://www.bigbasket.com/media/uploads/p/l/271323_14-johnsons-baby-baby-soap.jpg?tr=w-640,q=80",
+      "name": "Soap, 150 g",
+      "title": "Johnson's baby Baby Soap, 150 g (Buy 3 Get 1 Free)",
+      "weight": "150gm",
+      "price": 303,
+      "description": "Johnson's baby Baby Soap, 150 g (Buy 3 Get 1 Free)",
+      "category": "Baby care"
     },
-    {"id":3,
-    "image":"https://www.bigbasket.com/media/uploads/p/l/271323_14-johnsons-baby-baby-soap.jpg?tr=w-640,q=80",
-     "name": "Soap, 150 g",
-    "title":"Johnson's baby Baby Soap, 150 g (Buy 3 Get 1 Free)",
-    "weight":"150gm",
-    "price":303,
-    "description":"Johnson's baby Baby Soap, 150 g (Buy 3 Get 1 Free)",
-    "category":"Baby care"
+    {
+      "id": 4,
+      "image": "https://www.bigbasket.com/media/uploads/p/l/30012367_6-chicco-gentle-body-wash-and-shampoo.jpg?tr=w-640,q=80",
+      "name": "Gentle Body Wash & Shampoo",
+      "title": "Chicco Baby Moments",
+      "weight": "500ml",
+      "price": 505,
+      "description": "Chicco Baby Moments - Gentle Body Wash & Shampoo, Oats Extract & Apricot, For Rich Moisturised Skin & Soft Hair, 500 ml",
+      "category": "Baby care"
     },
-    {"id":4,
-    "image":"https://www.bigbasket.com/media/uploads/p/l/30012367_6-chicco-gentle-body-wash-and-shampoo.jpg?tr=w-640,q=80",
-     "name": "Gentle Body Wash & Shampoo",
-    "title":"Chicco Baby Moments",
-    "weight":"500ml",
-    "price":505,
-    "description":"Chicco Baby Moments - Gentle Body Wash & Shampoo, Oats Extract & Apricot, For Rich Moisturised Skin & Soft Hair, 500 ml",
-    "category":"Baby care"
+    {
+      "id": 5,
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40028604_7-sebamed-childrens-shampoo.jpg?tr=w-640,q=80",
+      "name": "Sebamed Baby Shampoo",
+      "title": "Camomile|Natural moisturisers",
+      "weight": "500ml",
+      "price": 815,
+      "description": "Sebamed Sebamed Baby Shampoo |Ph 5.5| Camomile|Natural moisturisers|No tears formula|For delicate scalp, 500 ml",
+      "category": "Baby care"
     },
-    {"id":5,
-    "image":"https://www.bigbasket.com/media/uploads/p/l/40028604_7-sebamed-childrens-shampoo.jpg?tr=w-640,q=80",
-     "name": "Sebamed Baby Shampoo",
-    "title":"Camomile|Natural moisturisers",
-    "weight":"500ml",
-    "price":815,
-    "description":"Sebamed Sebamed Baby Shampoo |Ph 5.5| Camomile|Natural moisturisers|No tears formula|For delicate scalp, 500 ml",
-    "category":"Baby care"
+    {
+      "id": 6,
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40085808_10-nestle-ceregrow-baby-cereal-multigrain-with-milk-fruits-from-2-5-years-rich-in-iron.jpg?tr=w-640,q=80",
+      "name": "Ceregrow",
+      "title": " Multigrain Cereal with Milk & Fruits",
+      "weight": "300gm",
+      "price": 300,
+      "description": "Nestle Ceregrow Multigrain Cereal with Milk & Fruits - From 2-5 Years, Rich in Iron, High in Protein Box, 300 g Box",
+      "category": "Baby care"
     },
-    {"id":6,
-    "image":"https://www.bigbasket.com/media/uploads/p/l/40085808_10-nestle-ceregrow-baby-cereal-multigrain-with-milk-fruits-from-2-5-years-rich-in-iron.jpg?tr=w-640,q=80",
-     "name": "Ceregrow",
-    "title":" Multigrain Cereal with Milk & Fruits",
-    "weight":"300gm",
-    "price":300,
-    "description":"Nestle Ceregrow Multigrain Cereal with Milk & Fruits - From 2-5 Years, Rich in Iron, High in Protein Box, 300 g Box",
-    "category":"Baby care"
+    {
+      "id": 7,
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40110175_3-himalaya-baby-baby-massage-oil.jpg?tr=w-640,q=80",
+      "name": "Baby Baby Massage Oil",
+      "title": "Himalaya Baby Baby Massage Oil",
+      "weight": "500ml",
+      "price": 315,
+      "description": "Himalaya Baby Baby Massage Oil, 500 ml",
+      "category": "Baby care"
     },
-    {"id":7,
-    "image":"https://www.bigbasket.com/media/uploads/p/l/40110175_3-himalaya-baby-baby-massage-oil.jpg?tr=w-640,q=80",
-     "name": "Baby Baby Massage Oil",
-    "title":"Himalaya Baby Baby Massage Oil",
-    "weight":"500ml",
-    "price":315,
-    "description":"Himalaya Baby Baby Massage Oil, 500 ml",
-    "category":"Baby care"
+    {
+      "id": 8,
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40129677_9-pampers-diaper-pants-extra-large.jpg?tr=w-640,q=80",
+      "name": "Pampers Diaper Pants",
+      "title": " Extra Large, 56 pcs",
+      "weight": "56pcs",
+      "price": 869,
+      "description": "Pampers Diaper Pants - Extra Large, 56 pcs",
+      "category": "Baby care"
     },
-    {"id":8,
-    "image":"https://www.bigbasket.com/media/uploads/p/l/40129677_9-pampers-diaper-pants-extra-large.jpg?tr=w-640,q=80",
-     "name": "Pampers Diaper Pants",
-    "title":" Extra Large, 56 pcs",
-    "weight":"56pcs",
-    "price":869,
-    "description":"Pampers Diaper Pants - Extra Large, 56 pcs",
-    "category":"Baby care"
+    {
+      "id": 9,
+      "image": "https://www.bigbasket.com/media/uploads/p/l/10000263_12-fresho-strawberry.jpg?tr=w-640,q=80",
+      "name": "Strawberry, 200gm",
+      "title": "",
+      "weight": "200gm",
+      "price": 57.14,
+      "description": "Extremely juicy and syrupy, these conical heart shaped fruits have seeds on the skin that give them a unique texture. With a blend of sweet-tart flavour, these are everyone's favourite berries.Do not forget to check our delicious fruit recipe",
+      "category": "Fresho"
     },
-    {"id":9,
-    "image":"https://www.bigbasket.com/media/uploads/p/l/10000263_12-fresho-strawberry.jpg?tr=w-640,q=80",
-     "name": "Strawberry, 200gm",
-    "title":"",
-    "weight":"200gm",
-    "price":57.14,
-    "description":"Extremely juicy and syrupy, these conical heart shaped fruits have seeds on the skin that give them a unique texture. With a blend of sweet-tart flavour, these are everyone's favourite berries.Do not forget to check our delicious fruit recipe",
-    "category":"Fresho"
+    {
+      "id": 10,
+      "image": "https://www.bigbasket.com/media/uploads/p/m/10000063_20-fresho-broccoli.jpg?tr=w-1920,q=80",
+      "name": " Broccoli",
+      "title": "Fresho Broccoli, 1 pc (Approx. 250g-500g)",
+      "weight": "1pc",
+      "price": 37.12,
+      "description": "With a shape resembling that of a cauliflower, Brocollis have clusters of small, tight flower heads. These heads turn bright green on cooking and tastes slightly bitter.",
+      "category": "Fresho"
     },
-    {"id":10,
-    "image":"https://www.bigbasket.com/media/uploads/p/m/10000063_20-fresho-broccoli.jpg?tr=w-1920,q=80",
-     "name": " Broccoli",
-    "title":"Fresho Broccoli, 1 pc (Approx. 250g-500g)",
-    "weight":"1pc",
-    "price":37.12,
-    "description":"With a shape resembling that of a cauliflower, Brocollis have clusters of small, tight flower heads. These heads turn bright green on cooking and tastes slightly bitter.",
-    "category":"Fresho"
+    {
+      "id": 11,
+      "image": "https://www.bigbasket.com/media/uploads/p/l/10000273_16-fresho-mushrooms-button.jpg?tr=w-640,q=80",
+      "name": "Mushrooms",
+      "title": "Fresho Mushrooms - Button, 1 pack(Approx .180g - 200 g)",
+      "weight": "180g",
+      "price": 40.54,
+      "description": "Buttom mushrooms are very small sized mushrooms with smooth round caps and short stems. They have a mild flavour with a good texture that becomes more fragrant and meaty when cooked.",
+      "category": "Fresho"
     },
-    {"id":11,
-    "image":"https://www.bigbasket.com/media/uploads/p/l/10000273_16-fresho-mushrooms-button.jpg?tr=w-640,q=80",
-     "name": "Mushrooms",
-    "title":"Fresho Mushrooms - Button, 1 pack(Approx .180g - 200 g)",
-    "weight":"180g",
-    "price":40.54,
-    "description":"Buttom mushrooms are very small sized mushrooms with smooth round caps and short stems. They have a mild flavour with a good texture that becomes more fragrant and meaty when cooked.",
-    "category":"Fresho"
+    {
+      "id": 12,
+      "image": "https://www.bigbasket.com/media/uploads/p/l/30009286_7-fresho-blueberry.jpg?tr=w-640,q=80",
+      "name": "Blueberry",
+      "title": "Fresho Blueberry, 125 g",
+      "weight": "125gm",
+      "price": 267,
+      "description": "Plump, smooth-skinned and indigo coloured perfect little globes of juicy berries have mostly sweet and slightly tart flavour. We have imported this fine quality, delicious tasting variety of",
+      "category": "Fresho"
     },
-    {"id":12,
-    "image":"https://www.bigbasket.com/media/uploads/p/l/30009286_7-fresho-blueberry.jpg?tr=w-640,q=80",
-     "name": "Blueberry",
-    "title":"Fresho Blueberry, 125 g",
-    "weight":"125gm",
-    "price":267,
-    "description":"Plump, smooth-skinned and indigo coloured perfect little globes of juicy berries have mostly sweet and slightly tart flavour. We have imported this fine quality, delicious tasting variety of",
-    "category":"Fresho"
+    {
+      "id": 13,
+      "image": "https://www.bigbasket.com/media/uploads/p/l/20000911_30-fresho-kiwi-green.jpg?tr=w-640,q=80",
+      "name": "Kiwi ",
+      "title": "Fresho Kiwi - Green, 3 pcs",
+      "weight": "3pc",
+      "price": 59,
+      "description": "Kiwis are oval shaped with a brownish outer skin. The flesh is bright green and juicy with tiny, edible black seeds. With its distinct sweet-sour taste and a pleasant smell, it tastes like strawberry",
+      "category": "Fresho"
     },
-    {"id":13,
-    "image":"https://www.bigbasket.com/media/uploads/p/l/20000911_30-fresho-kiwi-green.jpg?tr=w-640,q=80",
-     "name": "Kiwi ",
-    "title":"Fresho Kiwi - Green, 3 pcs",
-    "weight":"3pc",
-    "price":59,
-    "description":"Kiwis are oval shaped with a brownish outer skin. The flesh is bright green and juicy with tiny, edible black seeds. With its distinct sweet-sour taste and a pleasant smell, it tastes like strawberry",
-    "category":"Fresho"
+    {
+      "id": 14,
+      "image": "https://www.bigbasket.com/media/uploads/p/l/10000668_12-fresho-cucumber-english.jpg?tr=w-640,q=80",
+      "name": "Cucumber ",
+      "title": "Fresho Cucumber - English (Loose), 1 kg",
+      "weight": "1kg",
+      "price": 82,
+      "description": "English cucumber is a variety of seedless cucumber that is longer and slimmer than other varieties and have a higher water content. They do not have a layer of wax on them, and the skin is",
+      "category": "Fresho"
     },
-    {"id":14,
-    "image":"https://www.bigbasket.com/media/uploads/p/l/10000668_12-fresho-cucumber-english.jpg?tr=w-640,q=80",
-     "name": "Cucumber ",
-    "title":"Fresho Cucumber - English (Loose), 1 kg",
-    "weight":"1kg",
-    "price":82,
-    "description":"English cucumber is a variety of seedless cucumber that is longer and slimmer than other varieties and have a higher water content. They do not have a layer of wax on them, and the skin is",
-    "category":"Fresho"
+    {
+      "id": 16,
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40058671_3-fresho-mixed-capsicum.jpg?tr=w-640,q=80",
+      "name": "Mixed Capsicum",
+      "title": "Fresho Mixed Capsicum (Loose), 2 pcs",
+      "weight": "2pc",
+      "price": 104.04,
+      "description": "Capsicum is wealthy in several phytonutrients especially antioxidants, minerals and dietary fiber like manganese, copper, potassium and magnesium. It is wealthy in Vitamin A, B6, C, E, K and",
+      "category": "Fresho"
     },
-    {"id":15,
-    "image":"https://www.bigbasket.com/media/uploads/p/l/30002322_11-fresho-guava-thai.jpg?tr=w-640,q=80",
-     "name": "Guava ",
-    "title":"Fresho Guava - Thai (Loose), 1 pc",
-    "weight":"1pc",
-    "price":38.46,
-    "description":"Large sized, apple green skinned Thai guavas have a white flesh with pale yellow seeds and tend to be drier than the pink guavas. Thai guavas are only mildly sweet and have very little",
-    "category":"Fresho"
+    {
+      "id": 17,
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40199390_2-tata-tea-premium-tea.jpg?tr=w-640,q=80",
+      "name": "Tea Premium Tea, 1. 5 Kg",
+      "title": "Tata Tea Premium Tea, 1. 5 Kg",
+      "weight": "1.5kg",
+      "price": 490,
+      "description": "Chai is more than a cup of tea; rather it is an integral part of the culture and life of every Indian. While drinking chai is enjoyed",
+      "category": "tea"
     },
-    {"id":16,
-    "image":"https://www.bigbasket.com/media/uploads/p/l/40058671_3-fresho-mixed-capsicum.jpg?tr=w-640,q=80",
-     "name": "Mixed Capsicum",
-    "title":"Fresho Mixed Capsicum (Loose), 2 pcs",
-    "weight":"2pc",
-    "price":104.04,
-    "description":"Capsicum is wealthy in several phytonutrients especially antioxidants, minerals and dietary fiber like manganese, copper, potassium and magnesium. It is wealthy in Vitamin A, B6, C, E, K and",
-    "category":"Fresho"
+    {
+      "id": 18,
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40200082_3-tata-tea-gold-tea.jpg?tr=w-640,q=80",
+      "name": "Tea Gold Tea, 1.5 Kg",
+      "title": "Tata Tea Gold Tea, 1.5 Kg",
+      "weight": "1.5kg",
+      "price": 762.6,
+      "description": "In the place, where the valley meets the mountains, Tata Tea Gold is born. An exquisite tea that combines the rich fullness of fine",
+      "category": "tea"
     },
-    {"id":17,
-    "image":"https://www.bigbasket.com/media/uploads/p/l/40199390_2-tata-tea-premium-tea.jpg?tr=w-640,q=80",
-     "name": "Tea Premium Tea, 1. 5 Kg",
-    "title":"Tata Tea Premium Tea, 1. 5 Kg",
-    "weight":"1.5kg",
-    "price":490,
-    "description":"Chai is more than a cup of tea; rather it is an integral part of the culture and life of every Indian. While drinking chai is enjoyed",
-    "category":"tea"
+    {
+      "id": 19,
+      "image": "https://www.bigbasket.com/media/uploads/p/l/1212447_2-fresho-organic-cow-desi-gheetuppa.jpg?tr=w-640,q=80",
+      "name": "Organic Cow Desi Ghee",
+      "title": "Fresho Organic Cow Desi Ghee/Tuppa, 2x1 L (Multipack)",
+      "weight": "2L",
+      "price": 1568,
+      "description": "Manufactured in a safe and hygeinic facility, Fresho Organic Cow Desi Ghee/Tuppa Fresho is an organic must-have in every",
+      "category": "ghee"
     },
-    {"id":18,
-    "image":"https://www.bigbasket.com/media/uploads/p/l/40200082_3-tata-tea-gold-tea.jpg?tr=w-640,q=80",
-     "name": "Tea Gold Tea, 1.5 Kg",
-    "title":"Tata Tea Gold Tea, 1.5 Kg",
-    "weight":"1.5kg",
-    "price":762.60,
-    "description":"In the place, where the valley meets the mountains, Tata Tea Gold is born. An exquisite tea that combines the rich fullness of fine",
-    "category":"tea"
+    {
+      "id": 20,
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40085808_10-nestle-ceregrow-baby-cereal-multigrain-with-milk-fruits-from-2-5-years-rich-in-iron.jpg?tr=w-640,q=80",
+      "name": "Ceregrow",
+      "title": " Multigrain Cereal with Milk & Fruits",
+      "weight": "300gm",
+      "price": 300,
+      "description": "Nestle Ceregrow Multigrain Cereal with Milk & Fruits - From 2-5 Years, Rich in Iron, High in Protein Box, 300 g Box",
+      "category": "Baby care"
     },
-    {"id":19,
-    "image":"https://www.bigbasket.com/media/uploads/p/l/1212447_2-fresho-organic-cow-desi-gheetuppa.jpg?tr=w-640,q=80",
-     "name": "Organic Cow Desi Ghee",
-    "title":"Fresho Organic Cow Desi Ghee/Tuppa, 2x1 L (Multipack)",
-    "weight":"2L",
-    "price":1568,
-    "description":"Manufactured in a safe and hygeinic facility, Fresho Organic Cow Desi Ghee/Tuppa Fresho is an organic must-have in every",
-    "category":"ghee"
+    {
+      "id": 21,
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40110175_3-himalaya-baby-baby-massage-oil.jpg?tr=w-640,q=80",
+      "name": "Baby Baby Massage Oil",
+      "title": "Himalaya Baby Baby Massage Oil",
+      "weight": "500ml",
+      "price": 315,
+      "description": "Himalaya Baby Baby Massage Oil, 500 ml",
+      "category": "Baby care"
     },
-    {"id":20,
-    "image":"https://www.bigbasket.com/media/uploads/p/l/100003586_4-gowardhan-ghee.jpg?tr=w-640,q=80",
-     "name": "Pure Cow Ghee, 500 ml ",
-    "title":"Gowardhan Pure Cow Ghee, 500 ml Bottle",
-    "weight":"500ml",
-    "price":356,
-    "description":"Gowardhan Premium Ghee is completely processed using modern machines and has the enormous taste of 100% pure cow's",
-    "category":"ghee"
+    {
+      "id": 22,
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40129677_9-pampers-diaper-pants-extra-large.jpg?tr=w-640,q=80",
+      "name": "Pampers Diaper Pants",
+      "title": " Extra Large, 56 pcs",
+      "weight": "56pcs",
+      "price": 869,
+      "description": "Pampers Diaper Pants - Extra Large, 56 pcs",
+      "category": "Baby care"
     },
-    {"id":21,
-    "image":"https://www.bigbasket.com/media/uploads/p/l/242668_3-nandini-cooking-butter-unsalted.jpg?tr=w-640,q=80",
-     "name": "Pasteurised Butter",
-    "title":"Nandini Pasteurised Butter - Unsalted, 500 g Carton",
-    "weight":"500gm",
-    "price":255,
-    "description":"You will be simply amazed at the soft smooth texture of Nandini unsalted butter which comes from pasteurized cream. This tasty",
-    "category":"nandini"
+    {
+      "id": 230,
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40001504_4-nandini-slim-skimmed-milk.jpg?tr=w-640,q=80",
+      "name": "Slim UHT Sterilised Skimmed Milk",
+      "title": "Nandini Slim UHT Sterilised Skimmed Milk, 500 ml Carton",
+      "weight": "500ml",
+      "price": 33,
+      "description": "Nandini Good Life Slim Skimmed Milk is an entire pack of nutrition necessary for your health development and growth. It is equally nutritional like the total",
+      "category": "nandini"
     },
-    {"id":22,
-    "image":"https://www.bigbasket.com/media/uploads/p/l/40181590_5-nandini-processed-cheese-block.jpg?tr=w-640,q=80",
-     "name": "Processed Cheese",
-    "title":"Nandini Processed Cheese Block, 1 kg Carton",
-    "weight":"1kg",
-    "price":400,
-    "description":"Nandini Cheese is a food that many healthy eaters crave. Add cheese to salads, layer it on sandwiches or just enjoy cheese on its",
-    "category":"nandini"
+    {
+      "id": 24,
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40001504_4-nandini-slim-skimmed-milk.jpg?tr=w-640,q=80",
+      "name": "Slim UHT Sterilised Skimmed Milk",
+      "title": "Nandini Slim UHT Sterilised Skimmed Milk, 500 ml Carton",
+      "weight": "500ml",
+      "price": 33,
+      "description": "Nandini Good Life Slim Skimmed Milk is an entire pack of nutrition necessary for your health development and growth. It is equally nutritional like the total",
+      "category": "nandini"
     },
-    {"id":23,
-    "image":"https://www.bigbasket.com/media/uploads/p/l/1220651_1-aashirvaad-svasti-cow-ghee-intense-aroma-flavour-rich-texture-immunity-booster.jpg?tr=w-640,q=80",
-     "name": "Svasti Cow Ghee",
-    "title":"Aashirvaad Svasti Cow Ghee - Intense Aroma & Flavour, Rich Texture",
-    "weight":"200ml",
-    "price":345,
-    "description":"Aashirvaad, the brand that you love and trust, ensures that good quality products reach your kitchen and Aashirvaad Svasti Pure Cow Ghee stays true that. Made with love in India, Aashirvaad",
-    "category":"ghee"
+    {
+      "id": 255,
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40001504_4-nandini-slim-skimmed-milk.jpg?tr=w-640,q=80",
+      "name": "Slim UHT Sterilised Skimmed Milk",
+      "title": "Nandini Slim UHT Sterilised Skimmed Milk, 500 ml Carton",
+      "weight": "500ml",
+      "price": 33,
+      "description": "Nandini Good Life Slim Skimmed Milk is an entire pack of nutrition necessary for your health development and growth. It is equally nutritional like the total",
+      "category": "nandini"
+    },
+    {
+      "id": 26,
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40001504_4-nandini-slim-skimmed-milk.jpg?tr=w-640,q=80",
+      "name": "Slim UHT Sterilised Skimmed Milk",
+      "title": "Nandini Slim UHT Sterilised Skimmed Milk, 500 ml Carton",
+      "weight": "500ml",
+      "price": 33,
+      "description": "Nandini Good Life Slim Skimmed Milk is an entire pack of nutrition necessary for your health development and growth. It is equally nutritional like the total",
+      "category": "nandini"
+    },
+    {
+      "id": 27,
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40001504_4-nandini-slim-skimmed-milk.jpg?tr=w-640,q=80",
+      "name": "Slim UHT Sterilised Skimmed Milk",
+      "title": "Nandini Slim UHT Sterilised Skimmed Milk, 500 ml Carton",
+      "weight": "500ml",
+      "price": 33,
+      "description": "Nandini Good Life Slim Skimmed Milk is an entire pack of nutrition necessary for your health development and growth. It is equally nutritional like the total",
+      "category": "nandini"
+    },
+    {
+      "id": 231,
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40001504_4-nandini-slim-skimmed-milk.jpg?tr=w-640,q=80",
+      "name": "Slim UHT Sterilised Skimmed Milk",
+      "title": "Nandini Slim UHT Sterilised Skimmed Milk, 500 ml Carton",
+      "weight": "500ml",
+      "price": 33,
+      "description": "Nandini Good Life Slim Skimmed Milk is an entire pack of nutrition necessary for your health development and growth. It is equally nutritional like the total",
+      "category": "nandini"
+    },
+    {
+      "id": 241,
+      "image": "https://www.bigbasket.com/media/uploads/p/l/1212447_2-fresho-organic-cow-desi-gheetuppa.jpg?tr=w-640,q=80",
+      "name": "Organic Cow Desi Ghee",
+      "title": "Fresho Organic Cow Desi Ghee/Tuppa, 2x1 L (Multipack)",
+      "weight": "2L",
+      "price": 1568,
+      "description": "Manufactured in a safe and hygeinic facility, Fresho Organic Cow Desi Ghee/Tuppa Fresho is an organic must-have in every",
+      "category": "ghee"
+    },
+    {
+      "id": 25,
+      "image": "https://www.bigbasket.com/media/uploads/p/l/1212447_2-fresho-organic-cow-desi-gheetuppa.jpg?tr=w-640,q=80",
+      "name": "Organic Cow Desi Ghee",
+      "title": "Fresho Organic Cow Desi Ghee/Tuppa, 2x1 L (Multipack)",
+      "weight": "2L",
+      "price": 1568,
+      "description": "Manufactured in a safe and hygeinic facility, Fresho Organic Cow Desi Ghee/Tuppa Fresho is an organic must-have in every",
+      "category": "ghee"
+    },
+    {
+      "id": 80,
+      "image": "https://www.bigbasket.com/media/uploads/p/l/1212447_2-fresho-organic-cow-desi-gheetuppa.jpg?tr=w-640,q=80",
+      "name": "Organic Cow Desi Ghee",
+      "title": "Fresho Organic Cow Desi Ghee/Tuppa, 2x1 L (Multipack)",
+      "weight": "2L",
+      "price": 1568,
+      "description": "Manufactured in a safe and hygeinic facility, Fresho Organic Cow Desi Ghee/Tuppa Fresho is an organic must-have in every",
+      "category": "ghee"
+    },
+    {
+      "id": 271,
+      "image": "https://www.bigbasket.com/media/uploads/p/l/1212447_2-fresho-organic-cow-desi-gheetuppa.jpg?tr=w-640,q=80",
+      "name": "Organic Cow Desi Ghee",
+      "title": "Fresho Organic Cow Desi Ghee/Tuppa, 2x1 L (Multipack)",
+      "weight": "2L",
+      "price": 1568,
+      "description": "Manufactured in a safe and hygeinic facility, Fresho Organic Cow Desi Ghee/Tuppa Fresho is an organic must-have in every",
+      "category": "ghee"
+    },
+    {
+      "id": 28,
+      "image": "https://www.bigbasket.com/media/uploads/p/l/1212447_2-fresho-organic-cow-desi-gheetuppa.jpg?tr=w-640,q=80",
+      "name": "Organic Cow Desi Ghee",
+      "title": "Fresho Organic Cow Desi Ghee/Tuppa, 2x1 L (Multipack)",
+      "weight": "2L",
+      "price": 1568,
+      "description": "Manufactured in a safe and hygeinic facility, Fresho Organic Cow Desi Ghee/Tuppa Fresho is an organic must-have in every",
+      "category": "ghee"
+    },
+    {
+      "id": 29,
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40199390_2-tata-tea-premium-tea.jpg?tr=w-640,q=80",
+      "name": "Tea Premium Tea, 1. 5 Kg",
+      "title": "Tata Tea Premium Tea, 1. 5 Kg",
+      "weight": "1.5kg",
+      "price": 490,
+      "description": "Chai is more than a cup of tea; rather it is an integral part of the culture and life of every Indian. While drinking chai is enjoyed",
+      "category": "tea"
+    },
+    {
+      "id": 30,
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40200082_3-tata-tea-gold-tea.jpg?tr=w-640,q=80",
+      "name": "Tea Gold Tea, 1.5 Kg",
+      "title": "Tata Tea Gold Tea, 1.5 Kg",
+      "weight": "1.5kg",
+      "price": 762.6,
+      "description": "In the place, where the valley meets the mountains, Tata Tea Gold is born. An exquisite tea that combines the rich fullness of fine",
+      "category": "tea"
     }
-
   ],
-  "user":[
-      {
-        "email":"abc@gmail.com",
-        "password":"123456"
-    
-      }
+  "user": [
+    {
+      "email": "abc@gmail.com",
+      "password": "123456"
+    }
+  ],
+  "admin": [
+    {
+      "email": "abc@gmail.com",
+      "password": "123456"
+    }
   ]
 }
